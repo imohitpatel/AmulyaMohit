@@ -3,7 +3,7 @@
 Welcome to the Mohitique GitHub repository! Mohitique specializes in high-quality jewelry designed specifically for grooms. Our collection offers sophisticated and elegant pieces that enhance any groom’s look on their special day.
 
 ## Preview
-![Mohitique Logo](https://github.com/imohitpatel/mohitique-jewelrycollection/image/websitepreview.png)
+![Mohitique Logo](image/websitepreview.png)
 
 ## Project Overview
 
